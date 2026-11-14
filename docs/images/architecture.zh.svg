@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1125" width="2000" height="1125" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif" role="img" aria-label="SV GTM Advisor 架构">
+<title>SV GTM Advisor 架构</title>
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#dfe3ec" stroke-width="1"/></pattern>
+<pattern id="hatch" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="16" stroke="#f3c4d4" stroke-width="2"/></pattern>
+<marker id="ah-b" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M1 1L10 6L1 11" fill="none" stroke="#2b3a8f" stroke-width="2"/></marker>
+<marker id="ah-p" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M1 1L10 6L1 11" fill="none" stroke="#d6336c" stroke-width="2"/></marker>
+</defs>
+<rect width="2000" height="1125" fill="#fbfbf7"/>
+<rect width="2000" height="1125" fill="url(#grid)"/>
+<line x1="28" y1="0" x2="28" y2="1125" stroke="#f2a9bd" stroke-width="2"/>
+<text x="50" y="78" font-size="50" fill="#2b3a8f" font-weight="600" text-anchor="start">SV GTM Advisor 架构</text>
+<line x1="50" y1="97" x2="525" y2="97" stroke="#d6336c" stroke-width="4" stroke-linecap="round"/>
+<rect x="450" y="125" width="1500" height="150" rx="4" fill="none" stroke="#d6336c" stroke-width="3" stroke-dasharray="16 10"/>
+<text x="478" y="168" font-size="32" fill="#d6336c" font-weight="500" text-anchor="start">自我学习 → 消化 → 进化（每周更新 · 文字 + 图像）</text>
+<text x="478" y="232" font-size="30" fill="#2b3a8f" font-weight="600">自我学习<tspan font-size="25" fill="#5b6275" font-weight="400" dx="18">收录</tspan></text>
+<text x="900" y="232" font-size="30" fill="#2b3a8f" font-weight="600">消化<tspan font-size="25" fill="#5b6275" font-weight="400" dx="18">瘦身 · 切块 · 向量化</tspan></text>
+<text x="1510" y="232" font-size="30" fill="#2b3a8f" font-weight="600">进化<tspan font-size="25" fill="#5b6275" font-weight="400" dx="18">增量入库，越来越厚</tspan></text>
+<rect x="50" y="312" width="340" height="212" rx="6" fill="#ffffff" fill-opacity="0.85" stroke="#2b3a8f" stroke-width="3.5"/>
+<text x="84" y="364" font-size="34" fill="#1f2a5a" font-weight="400" text-anchor="middle">📰</text>
+<text x="220.0" y="416.0" font-size="38" fill="#2b3a8f" font-weight="600" text-anchor="middle">一手来源</text>
+<text x="220.0" y="470.0" font-size="25" fill="#5b6275" font-weight="400" text-anchor="middle">Newsletter · 手册 · 案例</text>
+<rect x="462" y="312" width="314" height="212" rx="6" fill="#ffffff" fill-opacity="0.85" stroke="#2b3a8f" stroke-width="3.5"/>
+<text x="496" y="364" font-size="34" fill="#1f2a5a" font-weight="400" text-anchor="middle">🤖</text>
+<text x="619.0" y="416.0" font-size="38" fill="#2b3a8f" font-weight="600" text-anchor="middle">Grok Bot</text>
+<text x="619.0" y="470.0" font-size="26" fill="#5b6275" font-weight="400" text-anchor="middle">收录新文章 + 原图</text>
+<rect x="850" y="312" width="338" height="212" rx="6" fill="#ffffff" fill-opacity="0.85" stroke="#2b3a8f" stroke-width="3.5"/>
+<text x="884" y="364" font-size="34" fill="#1f2a5a" font-weight="400" text-anchor="middle">📓</text>
+<text x="1019.0" y="416.0" font-size="38" fill="#2b3a8f" font-weight="600" text-anchor="middle">Obsidian 知识库</text>
+<text x="1019.0" y="470.0" font-size="26" fill="#5b6275" font-weight="400" text-anchor="middle">唯一真源</text>
+<rect x="1525" y="312" width="425" height="212" rx="6" fill="#ffffff" fill-opacity="0.85" stroke="#2b3a8f" stroke-width="3.5"/>
+<text x="1559" y="364" font-size="34" fill="#1f2a5a" font-weight="400" text-anchor="middle">🗄️</text>
+<text x="1737.5" y="416.0" font-size="38" fill="#2b3a8f" font-weight="600" text-anchor="middle">Supabase 线上存储</text>
+<text x="1737.5" y="470.0" font-size="26" fill="#5b6275" font-weight="400" text-anchor="middle">正文向量 + 配图</text>
+<rect x="1525" y="712" width="425" height="200" rx="6" fill="#ffffff" fill-opacity="0.85" stroke="#2b3a8f" stroke-width="3.5"/>
+<text x="1559" y="764" font-size="34" fill="#1f2a5a" font-weight="400" text-anchor="middle">🔍</text>
+<text x="1737.5" y="810.0" font-size="38" fill="#2b3a8f" font-weight="600" text-anchor="middle">GBrain 检索</text>
+<text x="1737.5" y="864.0" font-size="26" fill="#5b6275" font-weight="400" text-anchor="middle">语义检索 · 只读凭证</text>
+<line x1="390" y1="415" x2="458" y2="415" stroke="#2b3a8f" stroke-width="3.5" marker-end="url(#ah-b)"/>
+<line x1="776" y1="415" x2="846" y2="415" stroke="#2b3a8f" stroke-width="3.5" marker-end="url(#ah-b)"/>
+<line x1="1188" y1="415" x2="1521" y2="415" stroke="#2b3a8f" stroke-width="3.5" marker-end="url(#ah-b)"/>
+<text x="1356" y="380" font-size="34" fill="#d6336c" font-weight="600" text-anchor="middle">每周更新</text>
+<text x="1356" y="470" font-size="26" fill="#5b6275" font-weight="400" text-anchor="middle">瘦身 · 上传 · 入库</text>
+<line x1="1738" y1="524" x2="1738" y2="708" stroke="#2b3a8f" stroke-width="3.5" marker-end="url(#ah-b)"/>
+<line x1="1525" y1="808" x2="1180" y2="808" stroke="#2b3a8f" stroke-width="3.5" marker-end="url(#ah-b)"/>
+<rect x="50" y="676" width="1126" height="312" rx="4" fill="#fdeef3"/>
+<rect x="50" y="676" width="1126" height="312" rx="4" fill="url(#hatch)" fill-opacity="0.45"/>
+<rect x="50" y="676" width="1126" height="312" rx="4" fill="none" stroke="#d6336c" stroke-width="3.5"/>
+<text x="92" y="728" font-size="34" fill="#1f2a5a" font-weight="400" text-anchor="middle">🔌</text>
+<text x="613" y="765" font-size="54" fill="#d6336c" font-weight="600" text-anchor="middle">MCP → Any agent to access</text>
+<text x="613" y="836" font-size="34" fill="#2b3a8f" font-weight="400" text-anchor="middle">Claude Code · Codex · Cursor …</text>
+<text x="613" y="892" font-size="32" fill="#2b3a8f" font-weight="400" text-anchor="middle">Tanka（规划中）</text>
+<text x="613" y="952" font-size="30" fill="#1f2a5a" font-weight="400" text-anchor="middle">任何人随时问，答案带出处，可调取全文</text>
+<line x1="106" y1="672" x2="106" y2="530" stroke="#d6336c" stroke-width="3.5" stroke-dasharray="14 10" marker-end="url(#ah-p)"/>
+<text x="132" y="588" font-size="32" fill="#d6336c" font-weight="500" text-anchor="start">贡献回路</text>
+<text x="132" y="628" font-size="26" fill="#d6336c" font-weight="400" text-anchor="start">提 PR · 推荐新来源</text>
+<text x="50" y="1076" font-size="23" fill="#5b6275" font-weight="400" text-anchor="start">注：Tanka 接入规划中；以图搜图暂未做，配图以原图链接随答案返回</text>
+</svg>
