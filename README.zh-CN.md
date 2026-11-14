@@ -42,23 +42,23 @@ Gamma 怎样做 KOL、Lovable 怎样做社区增长、Descript 怎样做 UGC。�
 
 全是一手的 GTM 实操内容。**每周六同步更新**；新来源会陆续加进来。
 
-> **最近一次同步**：2026-10-24 15:09 PT · 库内合计 **1,689** 篇笔记（配图已同步）。
+> **最近一次同步**：2026-11-14 11:45 PT · 库内合计 **1,825** 篇笔记（配图已同步）。
 
 | 来源 | 篇数 | 时间跨度 | 适合找什么 |
 |---|---|---|---|
-| **Lenny's Newsletter** | 502 | 2019 – 至今 | 产品、增长、PLG、定价、团队与职业；大量访谈和数据 |
-| **Growth Unhinged** | 241 | 2021 – 至今 | B2B SaaS 增长实操：免费试用、定价、PLG 转化、指标 |
-| **Marketing Ideas** | 202 | 2023 – 至今 | 每周具体的营销打法和案例，拿来就能用的点子 |
+| **Lenny's Newsletter** | 525 | 2019 – 至今 | 产品、增长、PLG、定价、团队与职业；大量访谈和数据 |
+| **Growth Unhinged** | 247 | 2021 – 至今 | B2B SaaS 增长实操：免费试用、定价、PLG 转化、指标 |
+| **Marketing Ideas** | 205 | 2023 – 至今 | 每周具体的营销打法和案例，拿来就能用的点子 |
 | **Fletch PMM** | 137 | — | **网站定位改版前后对比**：改之前哪里不好、改之后好在哪，附整页截图 |
-| **MRR Unlocked** | 128 | 2021 – 至今 | 创始人视角的早期 GTM：冷邮件、LinkedIn、销售演示、定位工作表 |
-| **Behind the Craft** | 118 | 2016 – 至今 | Peter Yang 的产品与 AI 实战：AI 产品怎么做、怎么用 AI 工具、产品经理成长 |
-| **Elena's Growth Scoop** | 59 | 2023 – 至今 | Elena Verna 的增长方法：PLG、免费增值、定价、AI 时代的增长团队 |
-| **MKT1** | 42 | 2020 – 至今 | Emily Kramer 的 B2B 营销实操：Claude / MCP 工作流、团队与策略 |
-| **Growth Memo** | 31 | 2018 – 至今 | Kevin Indig 的 SEO 与 AI 搜索：排名因素、内容策略、AI 搜索流量变化 |
-| **GTM Strategist** | 6 | 2026 – 至今 | Maja Voje 的 B2B GTM：病毒发布、LinkedIn、广告与推荐 |
-| **Playbooks** | 216 | — | 成体系的手册（含 PR：newsjack、Chuwu-PR-OS）：定价、发布、GEO、公关与危机 |
-| **案例拆解与行业观察** | 4 | 2026 – 至今 | 单家公司的 GTM 拆解（如 Meshy、Corgi、X 上的爆款发布） |
-| **Product** | 3 | 2026 – 至今 | AI / Agent 方向的产品观察与创业缝隙 |
+| **MRR Unlocked** | 129 | 2021 – 至今 | 创始人视角的早期 GTM：冷邮件、LinkedIn、销售演示、定位工作表 |
+| **Behind the Craft** | 121 | 2016 – 至今 | Peter Yang 的产品与 AI 实战：AI 产品怎么做、怎么用 AI 工具、产品经理成长 |
+| **Elena's Growth Scoop** | 64 | 2023 – 至今 | Elena Verna 的增长方法：PLG、免费增值、定价、AI 时代的增长团队 |
+| **MKT1** | 43 | 2020 – 至今 | Emily Kramer 的 B2B 营销实操：Claude / MCP 工作流、团队与策略 |
+| **Growth Memo** | 35 | 2018 – 至今 | Kevin Indig 的 SEO 与 AI 搜索：排名因素、内容策略、AI 搜索流量变化 |
+| **GTM Strategist** | 8 | 2026 – 至今 | Maja Voje 的 B2B GTM：病毒发布、LinkedIn、广告与推荐 |
+| **Playbooks** | 268 | — | 成体系的手册（含 PR：newsjack、Chuwu-PR-OS）：定价、发布、GEO、公关与危机 |
+| **案例拆解与行业观察** | 23 | 2024 – 至今 | 单家公司的 GTM 拆解（如 Meshy、Corgi、X 上的爆款发布） |
+| **Product** | 20 | 2026 – 至今 | AI / Agent 方向的产品观察与创业缝隙 |
 
 文章里的配图（图表、截图、框架图）都保留着，以可点开的链接返回。**中文提问也能搜到英文文章。**
 

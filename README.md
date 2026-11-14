@@ -46,23 +46,23 @@ others have already stepped on the rake.
 
 All sources are first-hand GTM practice. **Synced every Saturday**; new sources are added over time.
 
-> **Last sync**: 2026-10-24 15:09 PT · **1,689** notes in total (images synced).
+> **Last sync**: 2026-11-14 11:45 PT · **1,825** notes in total (images synced).
 
 | Source | Articles | Span | Good for |
 |---|---|---|---|
-| **Lenny's Newsletter** | 502 | 2019 – now | Product, growth, PLG, pricing, teams & careers; lots of interviews and data |
-| **Growth Unhinged** | 241 | 2021 – now | B2B SaaS growth in practice: free trials, pricing, PLG conversion, metrics |
-| **Marketing Ideas** | 202 | 2023 – now | Concrete weekly marketing plays and examples you can use right away |
+| **Lenny's Newsletter** | 525 | 2019 – now | Product, growth, PLG, pricing, teams & careers; lots of interviews and data |
+| **Growth Unhinged** | 247 | 2021 – now | B2B SaaS growth in practice: free trials, pricing, PLG conversion, metrics |
+| **Marketing Ideas** | 205 | 2023 – now | Concrete weekly marketing plays and examples you can use right away |
 | **Fletch PMM** | 137 | — | **Website positioning before/after teardowns**, with full-page screenshots |
-| **MRR Unlocked** | 128 | 2021 – now | Founder-led early GTM: cold email, LinkedIn, sales demos, positioning worksheets |
-| **Behind the Craft** | 118 | 2016 – now | Peter Yang on building AI products, using AI tools, and growing as a PM |
-| **Elena's Growth Scoop** | 59 | 2023 – now | Elena Verna on PLG, freemium, pricing, and growth teams in the AI era |
-| **MKT1** | 42 | 2020 – now | Emily Kramer on B2B marketing: Claude / MCP workflows, team and strategy |
-| **Growth Memo** | 31 | 2018 – now | Kevin Indig on SEO and AI search: ranking factors, content strategy, AI traffic shifts |
-| **GTM Strategist** | 6 | 2026 – now | Maja Voje on B2B GTM: viral launches, LinkedIn, ads and referrals |
-| **Playbooks** | 216 | — | Structured playbooks (incl. PR: newsjacking, Chuwu-PR-OS): pricing, launches, GEO, PR & crisis |
-| **Case studies & industry notes** | 4 | 2026 – now | Single-company GTM breakdowns (e.g. Meshy, Corgi, viral launches on X) |
-| **Product** | 3 | 2026 – now | Product notes on AI / agents and startup gaps |
+| **MRR Unlocked** | 129 | 2021 – now | Founder-led early GTM: cold email, LinkedIn, sales demos, positioning worksheets |
+| **Behind the Craft** | 121 | 2016 – now | Peter Yang on building AI products, using AI tools, and growing as a PM |
+| **Elena's Growth Scoop** | 64 | 2023 – now | Elena Verna on PLG, freemium, pricing, and growth teams in the AI era |
+| **MKT1** | 43 | 2020 – now | Emily Kramer on B2B marketing: Claude / MCP workflows, team and strategy |
+| **Growth Memo** | 35 | 2018 – now | Kevin Indig on SEO and AI search: ranking factors, content strategy, AI traffic shifts |
+| **GTM Strategist** | 8 | 2026 – now | Maja Voje on B2B GTM: viral launches, LinkedIn, ads and referrals |
+| **Playbooks** | 268 | — | Structured playbooks (incl. PR: newsjacking, Chuwu-PR-OS): pricing, launches, GEO, PR & crisis |
+| **Case studies & industry notes** | 23 | 2024 – now | Single-company GTM breakdowns (e.g. Meshy, Corgi, viral launches on X) |
+| **Product** | 20 | 2026 – now | Product notes on AI / agents and startup gaps |
 
 Images in the articles (charts, screenshots, frameworks) are kept and returned as clickable links.
 **Ask in Chinese and it still finds English articles.**
